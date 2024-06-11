@@ -1,0 +1,328 @@
+{
+  "data": [
+    {
+      "subject_name": "Math",
+      "level": "hard",
+      "banner": "assets/images/math_banner.jpg",
+      "banner_title": "Advanced Mathematics Quiz",
+      "banner_color": "8AD1C5",
+      "chapter": "Advanced",
+      "questions": [
+        {
+          "question_text": "What is the derivative of f(x) = 3x2 +2x − 1 with respect to x?",
+          "variant_one": "6x + 2",
+          "variant_two": "3x2",
+          "variant_three": "6x − 1",
+          "variant_four": "3x + 2",
+          "true_answer": "6x + 2"
+        },
+        {
+          "question_text": "If the integral of f(x) = 4x3 from 0 to 2 is calculated, what is the result?",
+          "variant_one": "32",
+          "variant_two": "16",
+          "variant_three": "8",
+          "variant_four": "64",
+          "true_answer": "32"
+        },
+        {
+          "question_text": "PI = ?",
+          "variant_one": "3.14",
+          "variant_two": "1.34",
+          "variant_three": "3.10",
+          "variant_four": "3",
+          "true_answer": "3.14"
+        },
+        {
+          "question_text": "What is the sum of the interior angles of a pentagon?",
+          "variant_one": "540 degrees",
+          "variant_two": "720 degrees",
+          "variant_three": "360 degrees",
+          "variant_four": "180 degrees",
+          "true_answer": "540 degrees"
+        },
+        {
+          "question_text": "A sequence is defined as an = 2n−1. What is the 5th term of this sequence?",
+          "variant_one": "9",
+          "variant_two": "10",
+          "variant_three": "11",
+          "variant_four": "8",
+          "true_answer": "9"
+        },
+        {
+          "question_text": "What is the solution to the equation 2x = 32?",
+          "variant_one": "4",
+          "variant_two": "5",
+          "variant_three": "6",
+          "variant_four": "3",
+          "true_answer": "5"
+        },
+        {
+          "question_text": "If f(x) = x2 and g(x) = 2x+3, what is f(g(x)) when x=2?",
+          "variant_one": "49",
+          "variant_two": "25",
+          "variant_three": "121",
+          "variant_four": "169",
+          "true_answer": "49"
+        },
+        {
+          "question_text": "What is the area of a circle with a radius of 4 units? (Use π≈3.14)",
+          "variant_one": "50.24 square units",
+          "variant_two": "25.12 square units",
+          "variant_three": "12.56 square units",
+          "variant_four": "62.83 square units",
+          "true_answer": "50.24 square units"
+        },
+        {
+          "question_text": "The sides of a triangle are in the ratio 3:4:5. If the perimeter is 36 units, what is the length of the longest side?",
+          "variant_one": "15 units",
+          "variant_two": "18 units",
+          "variant_three": "12 units",
+          "variant_four": "9 units",
+          "true_answer": "15 units"
+        },
+        {
+          "question_text": "What is the slope of the line passing through the points (1,2) and (3,8)?",
+          "variant_one": "3",
+          "variant_two": "2",
+          "variant_three": "3/2",
+          "variant_four": "1/2",
+          "true_answer": "3"
+        },
+        {
+          "question_text": "A cylinder has a radius of 3 units and a height of 5 units. What is its volume? (Use π≈3.14)",
+          "variant_one": "141.3 cubic units",
+          "variant_two": "282.6 cubic units",
+          "variant_three": "47.1 cubic units",
+          "variant_four": "94.2 cubic units",
+          "true_answer": "141.3 cubic units"
+        },
+        {
+          "question_text": "If 5x−2 = 3x+6, what is the value of x?",
+          "variant_one": "4",
+          "variant_two": "3",
+          "variant_three": "2",
+          "variant_four": "1",
+          "true_answer": "4"
+        },
+        {
+          "question_text": "What is the sum of the first 10 terms of the arithmetic series where a1 = 1 and d = 2?",
+          "variant_one": "55",
+          "variant_two": "100",
+          "variant_three": "110",
+          "variant_four": "20",
+          "true_answer": "55"
+        },
+        {
+          "question_text": "What is the probability of rolling a sum of 7 with two six-sided dice?",
+          "variant_one": "1/6",
+          "variant_two": "1/12",
+          "variant_three": "5/36",
+          "variant_four": "1/18",
+          "true_answer": "1/6"
+        },
+        {
+          "question_text": "What is the equation of a line that has a slope of 2 and passes through the point (3,−2)?",
+          "variant_one": "y = 2x − 8",
+          "variant_two": "y = 2x + 4",
+          "variant_three": "y = 2x − 6",
+          "variant_four": "y = 2x + 2",
+          "true_answer": "y = 2x + 4"
+        },
+        {
+          "question_text": "What is the solution set for the inequality 3x − 4 > 5?",
+          "variant_one": "x > 3",
+          "variant_two": "x > −3",
+          "variant_three": "x > 1",
+          "variant_four": "x > 3/2",
+          "true_answer": "x > 3/2"
+        },
+        {
+          "question_text": "What is the sum of the infinite geometric series  1 + 1.2 + 1.4 + 1.8 +...?",
+          "variant_one": "1",
+          "variant_two": "2",
+          "variant_three": "1.5",
+          "variant_four": "2.5",
+          "true_answer": "2"
+        },
+        {
+          "question_text": "What is the value of the determinant of the matrix (1.3 2.4)?",
+          "variant_one": "-2",
+          "variant_two": "2",
+          "variant_three": "-10",
+          "variant_four": "10",
+          "true_answer": "-2"
+        }
+      ]
+    },
+    {
+      "subject_name": "English",
+      "level": "easy",
+      "banner": "assets/images/english_banner.jpg",
+      "banner_title": "Mastery Beginner Test",
+      "banner_color": "BD2C2F",
+      "chapter": "Beginner",
+      "questions": [
+        {
+          "question_text": "Which sentence is correct?",
+          "variant_one": "He goed to school yesterday.",
+          "variant_two": "He goes to school yesterday.",
+          "variant_three": "He gone to school yesterday.",
+          "variant_four": "He went to school yesterday.",
+          "true_answer": "He went to school yesterday."
+        },
+        {
+          "question_text": "Choose the correct form:",
+          "variant_one": "I am not like soccer.",
+          "variant_two": "I am not liking soccer.",
+          "variant_three": "I don't like soccer.",
+          "variant_four": "I don't liking soccer.",
+          "true_answer": "I don't like soccer."
+        },
+        {
+          "question_text": "What is the plural of \"child\"?",
+          "variant_one": "childs",
+          "variant_two": "childs'",
+          "variant_three": "childrens",
+          "variant_four": "children",
+          "true_answer": "children"
+        },
+        {
+          "question_text": "Select the correct sentence:",
+          "variant_one": "She is have a dog.",
+          "variant_two": "She has a dog.",
+          "variant_three": "She have a dog.",
+          "variant_four": "She having a dog.",
+          "true_answer": " She has a dog."
+        },
+        {
+          "question_text": "Choose the correct word:",
+          "variant_one": " I have many works to do.",
+          "variant_two": "I have much works to do.",
+          "variant_three": "I have many work to do.",
+          "variant_four": "I have much work to do.",
+          "true_answer": "I have much work to do."
+        },
+        {
+          "question_text": "Which sentence is correct?",
+          "variant_one": "He don't like coffee.",
+          "variant_two": "He doesn't like coffee.",
+          "variant_three": "He not likes coffee.",
+          "variant_four": "He is not liking coffee.",
+          "true_answer": "He doesn't like coffee."
+        },
+        {
+          "question_text": "Choose the correct form:",
+          "variant_one": "She is speaking English very well.",
+          "variant_two": "She speaks English very well.",
+          "variant_three": "She speak English very well.",
+          "variant_four": "She is speaks English very well.",
+          "true_answer": "She is speaking English very well."
+        },
+        {
+          "question_text": "What is the past tense of \"eat\"?",
+          "variant_one": "eat",
+          "variant_two": "eaten",
+          "variant_three": "eated",
+          "variant_four": "ate",
+          "true_answer": "ate"
+        },
+        {
+          "question_text": "Select the correct sentence:",
+          "variant_one": "We doesn't have enough money.",
+          "variant_two": "We don't has enough money.",
+          "variant_three": "We don't have enough money.",
+          "variant_four": "We doesn't has enough money.",
+          "true_answer": "We don't have enough money."
+        },
+        {
+          "question_text": "Choose the correct word:",
+          "variant_one": "There are few apples left.",
+          "variant_two": "There is few apples left.",
+          "variant_three": "There are little apples left.",
+          "variant_four": "There is little apples left.",
+          "true_answer": "There are few apples left."
+        },
+        {
+          "question_text": "Which sentence is correct?",
+          "variant_one": "They don't has a car.",
+          "variant_two": "They doesn't have a car.",
+          "variant_three": "They don't have a car.",
+          "variant_four": "They isn't have a car.",
+          "true_answer": "They don't have a car."
+        },
+        {
+          "question_text": "What is the comparative form of \"big\"?",
+          "variant_one": "biger",
+          "variant_two": "biggest",
+          "variant_three": "more big",
+          "variant_four": "bigger",
+          "true_answer": "bigger"
+        },
+        {
+          "question_text": "Select the correct sentence:",
+          "variant_one": "He goes to work by walk.",
+          "variant_two": "He goes to work by walking.",
+          "variant_three": "He goes to work by walks.",
+          "variant_four": "He goes to work by walked.",
+          "true_answer": "He goes to work by walking."
+        },
+        {
+          "question_text": "Choose the correct word:",
+          "variant_one": "She have a lot of friends.",
+          "variant_two": "She has a lot of friends.",
+          "variant_three": "She having a lot of friends.",
+          "variant_four": "She is has a lot of friends.",
+          "true_answer": "She has a lot of friends."
+        },
+        {
+          "question_text": "Which sentence is correct?",
+          "variant_one": "We have did our homework.",
+          "variant_two": "We did our homework.",
+          "variant_three": "We do our homework.",
+          "variant_four": "We has did our homework.",
+          "true_answer": "We did our homework."
+        },
+        {
+          "question_text": "What is the plural of \"person\"?",
+          "variant_one": "persons",
+          "variant_two": "people",
+          "variant_three": "peoples",
+          "variant_four": "persones",
+          "true_answer": "people"
+        },
+        {
+          "question_text": "Select the correct sentence:",
+          "variant_one": "They doesn't like to swim.",
+          "variant_two": "They don't likes to swim.",
+          "variant_three": "They don't like to swim.",
+          "variant_four": "They not like to swim.",
+          "true_answer": "They don't like to swim."
+        },
+        {
+          "question_text": "Choose the correct form:",
+          "variant_one": "He is driving car.",
+          "variant_two": "He driving car.",
+          "variant_three": "He drives car.",
+          "variant_four": "He drive car.",
+          "true_answer": "He drives car."
+        },
+        {
+          "question_text": "What is the past tense of \"go\"?",
+          "variant_one": "go",
+          "variant_two": "went",
+          "variant_three": "goed",
+          "variant_four": "gone",
+          "true_answer": "went"
+        },
+        {
+          "question_text": "Select the correct sentence:",
+          "variant_one": "I am seeing him tomorrow.",
+          "variant_two": "I see him tomorrow.",
+          "variant_three": "I am see him tomorrow.",
+          "variant_four": "I will see him tomorrow.",
+          "true_answer": "I will see him tomorrow."
+        }
+      ]
+    }
+  ]
+}
